@@ -10,5 +10,8 @@
     "dynamodb"
   ],
   "author": "davides",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.31.0"
+  }
 }
