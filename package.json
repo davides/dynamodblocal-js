@@ -1,0 +1,14 @@
+{
+  "name": "dynamodblocal-js",
+  "version": "1.11.86",
+  "description": "NPM package wrapper for DynamoDBLocal",
+  "main": "index.js",
+  "scripts": {
+    "start": "java -Djava.library.path=bin/DynamoDBLocal_lib -jar bin/DynamoDBLocal.jar"
+  },
+  "keywords": [
+    "dynamodb"
+  ],
+  "author": "davides",
+  "license": "MIT"
+}
